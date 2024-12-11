@@ -1,0 +1,49 @@
+@media(max-width: 850px) {
+
+  .botao {
+    margin-left: 320px;
+    padding: 2px;
+  }
+
+  .descricao {
+    margin: 0;
+    padding: 2px;
+    font-size: 12px;
+    font-weight: 200;
+    width: 360px;
+
+  }
+
+  .item {
+    width: 200px;
+    height: 100px;
+    margin: 0 0 30px;
+  }
+
+  .burguer1 {
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+  }
+
+  .informacoes {
+    margin: 0 0 20px;
+  }
+
+  .data {
+    margin-bottom: 2px;
+  }
+
+  .cabecalho {
+    padding: 35px;
+  }
+
+  .titulo {
+    margin: 20px;
+  }
+
+  .carrinho {
+    font-size: 15px;
+  }
+
+}

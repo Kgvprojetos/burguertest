@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-image: url("../imagem/fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 420px;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    padding: 30px;
+    height: 255px;
+}
+
+.logo{
+    border-radius: 120%;
+    height: 100px;
+}
+
+.data{
+    background-color: green;
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 4px;
+    
+}
+
+.titulo{
+    text-align: center;
+    font-size: 30px;
+    margin: 15px;
+}
+
+.local{
+    font-size: 15px;
+}
+
+.descricao{
+    width: 500px;  
+    margin: 0 0 10px 0;
+    line-height: 1.4;
+}
+
+.titulo-2{
+    margin: 0;
+    font-size: 15px;
+    color: black;
+}
+
+.preco{
+    margin: 0;
+}
+
+
+.burguer1{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    float: left;
+    margin: 5px;  
+}
+
+.item{
+    padding: 5px;
+    width: 490px;
+    margin: 25px 22px;
+    float: left;
+}
+
+.botao{
+    margin-left: 330px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.titulo-3{
+    height: 72px;
+    text-align: center;
+    
+}
+
+.carrinho{
+ position: fixed;
+ bottom: 0;
+ width: 100%;
+ background-color: red;
+ text-align: center;
+ color: white;
+ font-size: 15px;
+}
